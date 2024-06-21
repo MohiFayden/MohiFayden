@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 ## Contact
 - [Website](https://mohifeyzian.com/)
 - [LinkedIn](https://www.linkedin.com/in/mohammadfeyzian/)
-- [Email](mohammad.feyzian@gmail.com)
+- mohammad.feyzian@gmail.com
