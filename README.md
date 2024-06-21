@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **MohammadFeyzian/MohammadFeyzian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Hi 👋, I'm Mohi
+
+## About Me
+🚀 Senior Mobile Software Developer with 9+ years in Android development using Kotlin and Java. Skilled in Android SDK, Android Studio, and Git, with expertise in Jetpack Compose, Kotlin Multiplatform, Coroutine, and Kotlin Flow. I focus on enhancing app functionality and user experience through quality coding and efficient management.
+
+🌀 Passionate about leveraging technology to address real-world problems, I stay at the forefront of industry trends with a practical, results-oriented approach.
+
+## Skills
+- **Programming Languages**: Java, Kotlin, Swift, Javascript, Python
+- **Frameworks & Tools**: Android, iOS, Git
+
+## Contact
+- [Website](https://mohifeyzian.com/)
+- [LinkedIn](https://www.linkedin.com/in/mohammadfeyzian/)
+- [Email](mohammad.feyzian@gmail.com)
