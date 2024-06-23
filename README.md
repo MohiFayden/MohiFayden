@@ -14,13 +14,42 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="media/banner.gif" alt="Example Image" style="width:100%; height:auto;">
-</p>
+</p> -->
 
 <!-- ![Animated Banner](media/giphy-2.gif) -->
 
-# Hi 👋, I'm Mohi
+<!-- # Hi 👋, I'm Mohi -->
+
+<h1 class="animate-text" data-text="Hi 👋, I'm Mohi"></h1>
+
+<style>
+    .animate-text {
+        display: inline-block;
+        font-size: 24px;
+        font-family: Arial, sans-serif;
+    }
+
+    .animate-text::after {
+        content: attr(data-text);
+        display: inline-block;
+        white-space: pre;
+        animation: typing 2s steps(30, end), blink-caret .5s step-end infinite;
+        overflow: hidden;
+        border-right: .1em solid black;
+    }
+
+    @keyframes typing {
+        from { width: 0 }
+        to { width: 100% }
+    }
+
+    @keyframes blink-caret {
+        from, to { border-color: transparent }
+        50% { border-color: black }
+    }
+</style>
 
 ## About Me
 🚀 Senior Mobile Software Developer with 9+ years in Android development using Kotlin and Java. Skilled in Android SDK, Android Studio, and Git, with expertise in Jetpack Compose, Kotlin Multiplatform, Coroutine, and Kotlin Flow. I focus on enhancing app functionality and user experience through quality coding and efficient management.
