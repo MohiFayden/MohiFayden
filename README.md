@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 -->
 
 
-![Animated Banner](media/banner.gif)
+<p align="center">
+  <img src="media/banner.gif" alt="Example Image" style="width:100%; height:auto;">
+</p>
+
+<!-- ![Animated Banner](media/giphy-2.gif) -->
 
 # Hi 👋, I'm Mohi
 
