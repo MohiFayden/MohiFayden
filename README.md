@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 - **Frameworks & Tools**: Android, iOS, Git
 
 ## Contact
-- [Website](https://mohifeyzian.com/)
 - [LinkedIn](https://www.linkedin.com/in/mohammadfeyzian/)
 - [LeetCode](https://leetcode.com/u/mohammadfeyzian/)
+- [Website](https://mohifeyzian.com/)
 - mohammad.feyzian@gmail.com
 
 
