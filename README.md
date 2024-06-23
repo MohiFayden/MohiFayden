@@ -51,11 +51,6 @@ Here are some ideas to get you started:
     }
 </style>
 
-## About Me
-🚀 Senior Mobile Software Developer with 9+ years in Android development using Kotlin and Java. Skilled in Android SDK, Android Studio, and Git, with expertise in Jetpack Compose, Kotlin Multiplatform, Coroutine, and Kotlin Flow. I focus on enhancing app functionality and user experience through quality coding and efficient management.
-
-🌀 Passionate about leveraging technology to address real-world problems, I stay at the forefront of industry trends with a practical, results-oriented approach.
-
 ## Tech Stack
 
 ### Programming Languages
