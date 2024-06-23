@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi 👋, I'm Mohi
+![Animated Banner](media/banner.gif)
 
 ## About Me
 🚀 Senior Mobile Software Developer with 9+ years in Android development using Kotlin and Java. Skilled in Android SDK, Android Studio, and Git, with expertise in Jetpack Compose, Kotlin Multiplatform, Coroutine, and Kotlin Flow. I focus on enhancing app functionality and user experience through quality coding and efficient management.
