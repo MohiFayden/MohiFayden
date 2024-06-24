@@ -1,55 +1,8 @@
 <!--
 **MohammadFeyzian/MohammadFeyzian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-
-<!-- <p align="center">
-  <img src="media/banner.gif" alt="Example Image" style="width:100%; height:auto;">
-</p> -->
-
-<!-- ![Animated Banner](media/giphy-2.gif) -->
-
-<!-- # Hi 👋, I'm Mohi -->
-
-<h1 class="animate-text" data-text="Hi 👋, I'm Mohi"></h1>
-
-<style>
-    .animate-text {
-        display: inline-block;
-        font-size: 24px;
-        font-family: Arial, sans-serif;
-    }
-
-    .animate-text::after {
-        content: attr(data-text);
-        display: inline-block;
-        white-space: pre;
-        animation: typing 2s steps(30, end), blink-caret .5s step-end infinite;
-        overflow: hidden;
-        border-right: .1em solid black;
-    }
-
-    @keyframes typing {
-        from { width: 0 }
-        to { width: 100% }
-    }
-
-    @keyframes blink-caret {
-        from, to { border-color: transparent }
-        50% { border-color: black }
-    }
-</style>
+![Hi, I'm Mohi](assets/greeding.svg)
 
 ## Tech Stack
 
