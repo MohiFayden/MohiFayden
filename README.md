@@ -2,7 +2,9 @@
 **MohammadFeyzian/MohammadFeyzian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![Hi, I'm Mohi](assets/greeding.svg)
+
+![Hi, I'm Mohi](assets/greeting.svg)
+
 
 ## Tech Stack
 
@@ -15,18 +17,20 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Tools
+### Mobile Development
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 
 ## Contact
-- [LinkedIn](https://www.linkedin.com/in/mohammadfeyzian/)
-- [LeetCode](https://leetcode.com/u/mohammadfeyzian/)
-- [Website](https://mohifeyzian.com/)
-- mohammad.feyzian@gmail.com
+
+Feel free to connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadfeyzian/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/mohammadfeyzian/)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mohifeyzian.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammad.feyzian@gmail.com)
 
 
-
-![](https://komarev.com/ghpvc/?username=MohammadFeyzian&style=for-the-badge)
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=MohammadFeyzian&style=for-the-badge" alt="Profile Views"/>
+</div>
