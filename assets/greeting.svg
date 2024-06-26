@@ -3,6 +3,9 @@
     .char {
       font-size: 2em;
       opacity: 0;
+      fill: black;
+      stroke: white;
+      stroke-width: 0.5px;
       animation: fadeIn 1s forwards;
     }
     @keyframes fadeIn {
