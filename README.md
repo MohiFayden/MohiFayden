@@ -33,8 +33,3 @@ Feel free to connect with me:
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/mohammadfeyzian/)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mohifeyzian.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammad.feyzian@gmail.com)
-
-
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=MohiFayden&style=for-the-badge" alt="Profile Views"/>
-</div>
