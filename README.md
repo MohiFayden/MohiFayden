@@ -46,7 +46,7 @@ Native Mac tools I build for my own workflow, including the pipeline behind the 
 
 ## Background
 
-My roots are in mobile. At Instacart I've built payments and commerce features for the Instacart app, and intelligent features for Caper, Instacart's AI-powered smart carts. Before that I led the Android team at RxPx in digital health, moving the app to modern architecture and Jetpack Compose. Teaching has run alongside all of it, from one-on-one tutoring to YouTube, and that's where the courses come from.
+My roots are in mobile. At Instacart I built payments and commerce features for the Instacart app, then intelligent features for Caper, Instacart's AI-powered smart carts. Before that I led the Android team at RxPx in digital health, moving the app to modern architecture and Jetpack Compose. Teaching has run alongside all of it, from one-on-one tutoring to YouTube, and that's where the courses come from.
 
 <p align="center">
   <sub>Have an AI feature to ship? <a href="https://faydenai.com/contact">Let's talk.</a></sub>
