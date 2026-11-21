@@ -15,7 +15,7 @@ I'm Mohi, founder of **[FaydenAI](https://faydenai.com)**, an AI studio based in
 
 <p align="center">
   <a href="https://withaplomb.ai"><img src="assets/aplomb.svg" width="49%" alt="Aplomb, live: an AI speaking coach for high-stakes moments. Bring a real pitch, interview or presentation and practise it out loud until you're ready." /></a>
-  <a href="https://faydenai.com/learn"><img src="assets/learn.svg" width="49%" alt="AI courses, in production: video lessons from Python and the maths through deep learning and LLMs, to shipping RAG, evals and agents." /></a>
+  <a href="https://faydenai.com/learn"><img src="assets/learn.svg" width="49%" alt="AI courses: video lessons from Python and the maths through deep learning and LLMs, to shipping RAG, evals and agents." /></a>
 </p>
 <p align="center">
   <a href="https://faydenai.com/contact"><img src="assets/consulting.svg" width="98.6%" alt="Consulting from FaydenAI: AI integration, model and provider strategy, internal tooling, architecture and review." /></a>

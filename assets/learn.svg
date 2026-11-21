@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="440" height="330" viewBox="0 0 440 330" role="img" aria-labelledby="title desc">
   <title id="title">AI courses</title>
-  <desc id="desc">AI courses, in production: video lessons from Python and the maths through deep learning and LLMs, to shipping RAG, evals and agents. First up: Python for AI. faydenai.com/learn</desc>
+  <desc id="desc">AI courses: video lessons from Python and the maths through deep learning and LLMs, to shipping RAG, evals and agents. First up: Python for AI. faydenai.com/learn</desc>
   <style>
     @keyframes bar { 0%, 100% { transform: scaleY(1); } 50% { transform: scaleY(.45); } }
     @keyframes twinkle { 0%, 100% { opacity: .35; transform: scale(.6) rotate(0deg); } 50% { opacity: 1; transform: scale(1) rotate(45deg); } }
@@ -41,12 +41,6 @@
   <rect x="32" y="32" width="60" height="60" rx="16" fill="#ffffff" fill-opacity=".05" stroke="#b0c4e2" stroke-opacity=".25"/>
   <rect x="43" y="47" width="38" height="30" rx="7" fill="none" stroke="url(#c-ribbon)" stroke-width="2.5"/><path d="M49.8,49.8 L72.2,63.0 L49.8,76.2Z" fill="url(#c-ribbon)"/><path class="tw" d="M79,39 C80.26,44.74 80.26,44.74 86,46 C80.26,47.26 80.26,47.26 79,53 C77.74,47.26 77.74,47.26 72,46 C77.74,44.74 77.74,44.74 79,39Z" fill="#03eafb"/>
   
-  <g>
-    <rect x="256.0" y="34" width="152.0" height="28" rx="14" fill="#ffe169" fill-opacity=".08" stroke="#ffe169" stroke-opacity=".45"/>
-    <circle cx="273.0" cy="48" r="7" fill="#ffe169" fill-opacity=".25"><animate attributeName="opacity" values=".1;1;.1" keyTimes="0;.5;1" calcMode="spline" keySplines=".4 0 .6 1;.4 0 .6 1" dur="2.4s" repeatCount="indefinite"/></circle>
-    <circle cx="273.0" cy="48" r="3.5" fill="#ffe169"/>
-    <text x="286.0" y="52.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="700" letter-spacing="1.6" fill="#ffe169">IN PRODUCTION</text>
-  </g>
 
   <text x="32" y="134" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="30" font-weight="800" letter-spacing="-.5" fill="#f1f3f9">AI courses</text>
   <text x="32" y="166" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#b0c4e2">Video lessons, each with something to try.</text><text x="32" y="188" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#b0c4e2">From Python and the maths through deep learning</text><text x="32" y="210" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#b0c4e2">and LLMs, to shipping RAG, evals and agents.</text>
