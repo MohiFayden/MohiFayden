@@ -43,7 +43,6 @@ Native Mac tools I build for my own workflow, including the pipeline behind the 
 - **TermRail**: terminals grouped by project, with every group one click away.
 - **Crisp**: a menu-bar refiner that cleans up dictated text without rewriting it.
 - **Interlude**: gentle, guided micro-breaks that pull me away from the screen to rest my eyes and move.
-- **App Hub**: one place to open all of them. Triple-tap Shift, pick one, done.
 
 ## Background
 
